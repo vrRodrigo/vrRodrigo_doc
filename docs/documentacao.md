@@ -9,25 +9,25 @@
 
 :heavy_check_mark: Finalizado (na Develop para revisão e testes).
 
-:small_blue_diamond: Mergeado para a Master.
+🟢 Mergeado para a Master.
 
 :x: Cancelado.
 
 ## :computer: Distribuição de Serviços 
 
-### :small_blue_diamond: Cidade  
+### 🟢 Cidade  
 - [ ] lista_cidades-v2.01.php => listaCidades.php *Cidades*
 
-### :small_blue_diamond: CPF  
+### 🟢 CPF  
 - [ ] existe_cadastro_cpf-v2.01.php => existeCadastroCPF.php *CPF* 
 - [ ] obter_email_pelo_cpf-v2.01.php => obterEmailPeloCPF.php *UsuarioCPF*
 - [ ] verifica_cadastro_cpf-v2.02.php => verificaCadastroCPF.php *UsuarioCPF* 
 
-### :small_blue_diamond: CodigoVoucher 
+### 🟢 CodigoVoucher 
 - [ ] obter_codigo_voucher-v2.01.php => obterCodigoVoucher.php *CodigoVoucher*
 - [ ] obter_dados_voucher-v2.01.php  => obterDadosVoucher.php *CodigoVoucher*
 
-### :small_blue_diamond: Descontos 
+### 🟢 Descontos 
 - [ ] ativar_desconto-v2.01.php => ativarDesconto.php *Descontos* 
 
 ### :x: Facebook 
@@ -48,33 +48,33 @@
 - [ ] renomear_item_avulso_lista_compras-v2.01.php => removerItemAvulsoListaCompra.php *ListaDeCompras* **Errado o nome do ENDPOINT** 
 - [ ] ajusta_lista_de_compras-v2.02.php => ajustaListaDeCompras.php *ListaDeCompras*
 
-### :small_blue_diamond: Login 
+### 🟢 Login 
 - [ ] logar_usuario-v2.02.php => logarUsuario.php *Usuario_Login*
 - [ ] sair_da_conta-v2.01.php => sairDaConta.php *Usuario_Login*
 
-### :small_blue_diamond: Loja 
+### 🟢 Loja 
 - [ ] escolher_loja-v2.01.php => escolherLoja.php *Loja*
 - [ ] info_loja-v2.01.php => infoLoja.php *Loja*
 - [ ] lista_lojas_cidades-v2.01.php => listaLojasCidades.php *LojasCidades*
 - [ ] lojas_cidade_lista-v2.01.php => lojasCidadeLista.php *LojasCidades*
 
-### :small_blue_diamond: Notificações  
+### 🟢 Notificações  
 - [ ] atualiza_prefs_notificacoes-v2.01.php => atualizaPreferenciaNotificacoes.php *AtualizarNotificacoes* 
 - [ ] registrar_token_notificacao-v2.01.php => registrarTokenNotificacao.php *?*
 
-### :small_blue_diamond: Produto 
+### 🟢 Produto 
 - [ ] get_img_produto-v2.01.php => getImgProduto.php *Produto*
 
-### :small_blue_diamond: Pontos 
+### 🟢 Pontos 
 - [ ] programa_de_pontos-v2.01.php => programaDePontos.php *Pontos*
 
-### :small_blue_diamond: Sessao 
+### 🟢 Sessao 
 - [ ] tabs_sessao-v2.01.php => tabsSessao.php *Sessao*
 
-### :small_blue_diamond: Tabloides 
+### 🟢 Tabloides 
 - [ ] listar_tabloides-v2.01.php => listarTabloides.php *Tabloides*
 
-### :small_blue_diamond: Usuario 
+### 🟢 Usuario 
 - [ ] cadastrar_usuario-v2.01.php => cadastrarUsuario.php *Usuario* 
 - [ ] obter_endereco_pelo_cep-v2.01.php => obterEnderecoPeloCEP.php *Usuario*
 - [ ] excluir_conta-v2.01.php => excluirConta.php *Usuario* 
@@ -88,7 +88,7 @@
 - [ ] obter_dados_usuario-v2.02.php => obterDadosUsuario.php *Usuario*
 - [ ] verifica_vinculo_conta-v2.01.php => verificaVinculoConta.php *Usuario?*
 
-### :small_blue_diamond: Diversos
+### 🟢 Diversos
 - [ ] avaliar_app-v2.01.php => avaliarApp.php *?*
 - [ ] cadastro_ocioso-v2.01.php => cadastroOcioso.php *?*
 - [ ] carregamento_inicial-v2.01.php => carregamentoInicial.php *?*
