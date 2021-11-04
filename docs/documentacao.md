@@ -1,19 +1,19 @@
-# :books: Serviços Connect_APP 
+# 📚 Serviços Connect_APP 
 
-## :information_source: Legendas
-:red_circle: Não iniciado.
+## ℹ️ Legendas
+🔴 Não iniciado.
 
-:large_blue_circle: Em Desenvolvimento.
+🔵 Em Desenvolvimento.
 
-:large_orange_diamond: Finalizado porém com pendências (testes, funções...).
+🟠 Finalizado porém com pendências (testes, funções...).
 
-:heavy_check_mark: Finalizado (na Develop para revisão e testes).
+🟢 Finalizado (na Develop para revisão e testes).
 
-🟢 Mergeado para a Master.
+✔️ Mergeado para a Master.
 
-:x: Cancelado.
+❌ Cancelado.
 
-## :computer: Distribuição de Serviços 
+## 💻 Distribuição de Serviços 
 
 ### 🟢 Cidade  
 - [ ] lista_cidades-v2.01.php => listaCidades.php *Cidades*
@@ -30,14 +30,14 @@
 ### 🟢 Descontos 
 - [ ] ativar_desconto-v2.01.php => ativarDesconto.php *Descontos* 
 
-### :x: Facebook 
+### ❌ Facebook 
 - [ ] vincular_facebook-v2.01.php => vincularFacebook.php *Facebook*
 - [ ] desvincular_facebook-v2.01.php => desvincularFacebook.php *Facebook* 
 - [ ] atualiza_dados_facebook-v2.01.php => atualizaDadosFacebook.php *Facebook* 
 - [ ] obter_dados_facebook-v2.01.php => obterDadosFacebook.php *Facebook*
 - [ ] obter_img_avatar_facebook-v2.01.php => obterImgAvatarFacebook.php *FacebookUsuario*
 
-### :x: Lista De Compras
+### ❌ Lista De Compras
 - [ ] add_item_listacompra-v2.01.php => addItemListaCompra.php *ListaDeCompras* 
 - [ ] alterar_qtd_item_listacompras-v2.01.php => alterarQtdItemListaCompra.php *ListaDeCompras* 
 - [ ] alterar_valor_item_avulso_listacompras-v2.01.php => alterarValorItemAvulsoListaCompra.php *ListaDeCompras* 
@@ -99,15 +99,15 @@
 - [ ] verifica_bloqueio_campos-v2.01.php => ? *?*
 - [ ] verifica_bundle-v2.01.php => verificaBundle.php *?*
 
-## :dart: Distribuição dos módulos dos endpoints
+## 🎯 Distribuição dos módulos dos endpoints
 #### Foram gerados novos módulos conforme discutido, seguindo a nova estrutura:
 #### https://api.vrconnect.com.br/v2/[MODULO]/[VERSÃO]/[ENDPOINT]
 
-## :open_file_folder: Modulos (Antigo => Novo)
+## 📂 Modulos (Antigo => Novo)
 #### Todos os endpoints desta lista se encontram na versão v3.00, ou seja, a chamada para a requisição será:
 #### https://api.vrconnect.com.br/v2/[MODULO]/v3.00/[ENDPOINT]
 
-### :new: crm
+### 🆕 crm
 existe_cadastro_cpf-v2.01 => existeCadastroCPF
 obter_email_pelo_cpf-v2.01 => obterEmailPeloCPF
 verifica_cadastro_cpf-v2.02 => verificaCadastroCPF
@@ -123,16 +123,16 @@ meu_poupometro-v2.01 => meuPoupometro
 mudar_senha-v2.01 => mudarSenha
 obter_dados_usuario-v2.02 => obterDadosUsuario
 
-### :new: oferta
+### 🆕 oferta
 ativar_desconto-v2.01 => ativarDesconto
 tabs_sessao-v2.01 => tabsSessao
 minhas_ofertas-v2.01 => minhasOfertas
 
-### :new: tabloide
+### 🆕 tabloide
 listar_tabloides-v2.01 => listarTabloides
 registrar_visualizacao_tabloide-v2.01 => registrarVisualizacaoTabloide
 
-### :new: loja
+### 🆕 loja
 lista_cidades-v2.01 => listaCidades
 escolher_loja-v2.01 => escolherLoja
 info_loja-v2.01 => infoLoja
@@ -142,25 +142,25 @@ get_entreemcontato-v2.01 => getEntreEmContato
 verifica_bloqueio_campos-v2.01 => verificaBloqueioCampos
 verifica_bundle-v2.01 => verificaBundle
 
-### :new: voucher
+### 🆕 voucher
 obter_codigo_voucher-v2.01 => obterCodigoVoucher
 obter_dados_voucher-v2.01 => obterDadosVoucher
 meus_brindes-v2.01 => meusBrindes
 
-### :new: compartilhamento
+### 🆕 compartilhamento
 registrar_compartilhamento-v2.01 => registrarCompartilhamento
 
-### :new: ppontos
+### 🆕 ppontos
 programa_de_pontos-v2.01 => programaDePontos
 
-### :new: curtida
+### 🆕 curtida
 curtir_oferta-v2.01 => curtirOferta
 
-### :new: lembrete
+### 🆕 lembrete
 registrar_visualizacao_lembrete-v2.01 => registrarVisualizacaoLembrete
 meus_lembretes-v2.01 => meusLembretes
 
-### :new: diversos
+### 🆕 diversos
 avaliar_app-v2.01 => avaliarApp
 carregamento_inicial-v2.0 => carregamentoInicial
 envia_acesso_app-v2.01 => enviaAcessoApp
