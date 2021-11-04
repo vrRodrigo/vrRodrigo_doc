@@ -19,88 +19,88 @@ title: Documentação Base Tarefas do Connect_APP
 ## 💻 Distribuição de Serviços 
 
 ### 🟢 Cidade  
-- [ ] lista_cidades-v2.01.php => listaCidades.php *Cidades*
+- lista_cidades-v2.01.php => listaCidades.php *Cidades*
 
 ### 🟢 CPF  
-- [ ] existe_cadastro_cpf-v2.01.php => existeCadastroCPF.php *CPF* 
-- [ ] obter_email_pelo_cpf-v2.01.php => obterEmailPeloCPF.php *UsuarioCPF*
-- [ ] verifica_cadastro_cpf-v2.02.php => verificaCadastroCPF.php *UsuarioCPF* 
+- existe_cadastro_cpf-v2.01.php => existeCadastroCPF.php *CPF* 
+- obter_email_pelo_cpf-v2.01.php => obterEmailPeloCPF.php *UsuarioCPF*
+- verifica_cadastro_cpf-v2.02.php => verificaCadastroCPF.php *UsuarioCPF* 
 
 ### 🟢 CodigoVoucher 
-- [ ] obter_codigo_voucher-v2.01.php => obterCodigoVoucher.php *CodigoVoucher*
-- [ ] obter_dados_voucher-v2.01.php  => obterDadosVoucher.php *CodigoVoucher*
+- obter_codigo_voucher-v2.01.php => obterCodigoVoucher.php *CodigoVoucher*
+- obter_dados_voucher-v2.01.php  => obterDadosVoucher.php *CodigoVoucher*
 
 ### 🟢 Descontos 
-- [ ] ativar_desconto-v2.01.php => ativarDesconto.php *Descontos* 
+- ativar_desconto-v2.01.php => ativarDesconto.php *Descontos* 
 
 ### ❌ Facebook 
-- [ ] vincular_facebook-v2.01.php => vincularFacebook.php *Facebook*
-- [ ] desvincular_facebook-v2.01.php => desvincularFacebook.php *Facebook* 
-- [ ] atualiza_dados_facebook-v2.01.php => atualizaDadosFacebook.php *Facebook* 
-- [ ] obter_dados_facebook-v2.01.php => obterDadosFacebook.php *Facebook*
-- [ ] obter_img_avatar_facebook-v2.01.php => obterImgAvatarFacebook.php *FacebookUsuario*
+- vincular_facebook-v2.01.php => vincularFacebook.php *Facebook*
+- desvincular_facebook-v2.01.php => desvincularFacebook.php *Facebook* 
+- atualiza_dados_facebook-v2.01.php => atualizaDadosFacebook.php *Facebook* 
+- obter_dados_facebook-v2.01.php => obterDadosFacebook.php *Facebook*
+- obter_img_avatar_facebook-v2.01.php => obterImgAvatarFacebook.php *FacebookUsuario*
 
 ### ❌ Lista De Compras
-- [ ] add_item_listacompra-v2.01.php => addItemListaCompra.php *ListaDeCompras* 
-- [ ] alterar_qtd_item_listacompras-v2.01.php => alterarQtdItemListaCompra.php *ListaDeCompras* 
-- [ ] alterar_valor_item_avulso_listacompras-v2.01.php => alterarValorItemAvulsoListaCompra.php *ListaDeCompras* 
-- [ ] limpar_lista_compras-v2.01.php => limparListaCompra.php *ListaDeCompras*
-- [ ] minha_lista_compras-v2.01.php => minhaListaCompra.php *UsuarioListaDeCompras?*
-- [ ] remover_item_lista_compras-v2.01.php => removerItemListaCompra.php *ListaDeCompras*
-- [ ] toggle_item_cesta_lista_compras-v2.01.php => alternaItemCestaListaCompra.php *ListaDeCompras*
-- [ ] renomear_item_avulso_lista_compras-v2.01.php => removerItemAvulsoListaCompra.php *ListaDeCompras* **Errado o nome do ENDPOINT** 
-- [ ] ajusta_lista_de_compras-v2.02.php => ajustaListaDeCompras.php *ListaDeCompras*
+- add_item_listacompra-v2.01.php => addItemListaCompra.php *ListaDeCompras* 
+- alterar_qtd_item_listacompras-v2.01.php => alterarQtdItemListaCompra.php *ListaDeCompras* 
+- alterar_valor_item_avulso_listacompras-v2.01.php => alterarValorItemAvulsoListaCompra.php *ListaDeCompras* 
+- limpar_lista_compras-v2.01.php => limparListaCompra.php *ListaDeCompras*
+- minha_lista_compras-v2.01.php => minhaListaCompra.php *UsuarioListaDeCompras?*
+- remover_item_lista_compras-v2.01.php => removerItemListaCompra.php *ListaDeCompras*
+- toggle_item_cesta_lista_compras-v2.01.php => alternaItemCestaListaCompra.php *ListaDeCompras*
+- renomear_item_avulso_lista_compras-v2.01.php => removerItemAvulsoListaCompra.php *ListaDeCompras* **Errado o nome do ENDPOINT** 
+- ajusta_lista_de_compras-v2.02.php => ajustaListaDeCompras.php *ListaDeCompras*
 
 ### 🟢 Login 
-- [ ] logar_usuario-v2.02.php => logarUsuario.php *Usuario_Login*
-- [ ] sair_da_conta-v2.01.php => sairDaConta.php *Usuario_Login*
+- logar_usuario-v2.02.php => logarUsuario.php *Usuario_Login*
+- sair_da_conta-v2.01.php => sairDaConta.php *Usuario_Login*
 
 ### 🟢 Loja 
-- [ ] escolher_loja-v2.01.php => escolherLoja.php *Loja*
-- [ ] info_loja-v2.01.php => infoLoja.php *Loja*
-- [ ] lista_lojas_cidades-v2.01.php => listaLojasCidades.php *LojasCidades*
-- [ ] lojas_cidade_lista-v2.01.php => lojasCidadeLista.php *LojasCidades*
+- escolher_loja-v2.01.php => escolherLoja.php *Loja*
+- info_loja-v2.01.php => infoLoja.php *Loja*
+- lista_lojas_cidades-v2.01.php => listaLojasCidades.php *LojasCidades*
+- lojas_cidade_lista-v2.01.php => lojasCidadeLista.php *LojasCidades*
 
 ### 🟢 Notificações  
-- [ ] atualiza_prefs_notificacoes-v2.01.php => atualizaPreferenciaNotificacoes.php *AtualizarNotificacoes* 
-- [ ] registrar_token_notificacao-v2.01.php => registrarTokenNotificacao.php *?*
+- atualiza_prefs_notificacoes-v2.01.php => atualizaPreferenciaNotificacoes.php *AtualizarNotificacoes* 
+- registrar_token_notificacao-v2.01.php => registrarTokenNotificacao.php *?*
 
 ### 🟢 Produto 
-- [ ] get_img_produto-v2.01.php => getImgProduto.php *Produto*
+- get_img_produto-v2.01.php => getImgProduto.php *Produto*
 
 ### 🟢 Pontos 
-- [ ] programa_de_pontos-v2.01.php => programaDePontos.php *Pontos*
+- programa_de_pontos-v2.01.php => programaDePontos.php *Pontos*
 
 ### 🟢 Sessao 
-- [ ] tabs_sessao-v2.01.php => tabsSessao.php *Sessao*
+- tabs_sessao-v2.01.php => tabsSessao.php *Sessao*
 
 ### 🟢 Tabloides 
-- [ ] listar_tabloides-v2.01.php => listarTabloides.php *Tabloides*
+- listar_tabloides-v2.01.php => listarTabloides.php *Tabloides*
 
 ### 🟢 Usuario 
-- [ ] cadastrar_usuario-v2.01.php => cadastrarUsuario.php *Usuario* 
-- [ ] obter_endereco_pelo_cep-v2.01.php => obterEnderecoPeloCEP.php *Usuario*
-- [ ] excluir_conta-v2.01.php => excluirConta.php *Usuario* 
-- [ ] meus_brindes-v2.01.php => meusBrindes.php *UsuarioBrindes*
-- [ ] meus_lembretes-v2.01.php => meusLembretes.php *UsuarioLembretes*
-- [ ] meu_poupometro-v2.01.php => meuPoupometro.php *UsuarioPoupometro*
-- [ ] minhas_ofertas-v2.01.php => minhasOfertas.php *UsuarioOfertas*
-- [ ] mudar_senha-v2.01.php => mudarSenha.php *UsuarioSenha*
-- [ ] registrar_visualizacao_lembrete-v2.01.php => registrarVisualizacaoLembrete.php *UsuarioLembrete?*
-- [ ] registrar_visualizacao_tabloide-v2.01.php => registrarVisualizacaoTabloide.php *UsuarioToken?*
-- [ ] obter_dados_usuario-v2.02.php => obterDadosUsuario.php *Usuario*
-- [ ] verifica_vinculo_conta-v2.01.php => verificaVinculoConta.php *Usuario?*
+- cadastrar_usuario-v2.01.php => cadastrarUsuario.php *Usuario* 
+- obter_endereco_pelo_cep-v2.01.php => obterEnderecoPeloCEP.php *Usuario*
+- excluir_conta-v2.01.php => excluirConta.php *Usuario* 
+- meus_brindes-v2.01.php => meusBrindes.php *UsuarioBrindes*
+- meus_lembretes-v2.01.php => meusLembretes.php *UsuarioLembretes*
+- meu_poupometro-v2.01.php => meuPoupometro.php *UsuarioPoupometro*
+- minhas_ofertas-v2.01.php => minhasOfertas.php *UsuarioOfertas*
+- mudar_senha-v2.01.php => mudarSenha.php *UsuarioSenha*
+- registrar_visualizacao_lembrete-v2.01.php => registrarVisualizacaoLembrete.php *UsuarioLembrete?*
+- registrar_visualizacao_tabloide-v2.01.php => registrarVisualizacaoTabloide.php *UsuarioToken?*
+- obter_dados_usuario-v2.02.php => obterDadosUsuario.php *Usuario*
+- verifica_vinculo_conta-v2.01.php => verificaVinculoConta.php *Usuario?*
 
 ### 🟢 Diversos
-- [ ] avaliar_app-v2.01.php => avaliarApp.php *?*
-- [ ] cadastro_ocioso-v2.01.php => cadastroOcioso.php *?*
-- [ ] carregamento_inicial-v2.01.php => carregamentoInicial.php *?*
-- [ ] curtir_oferta-v2.01.php => curtirOferta.php *?*
-- [ ] envia_acesso_app-v2.01.php => enviaAcessoApp.php *?*
-- [ ] get_entreemcontato-v2.01.php => getEntreEmContato.php *?*
-- [ ] registrar_compartilhamento-v2.01.php => registrarCompartilhamento.php *?*
-- [ ] verifica_bloqueio_campos-v2.01.php => ? *?*
-- [ ] verifica_bundle-v2.01.php => verificaBundle.php *?*
+- avaliar_app-v2.01.php => avaliarApp.php *?*
+- cadastro_ocioso-v2.01.php => cadastroOcioso.php *?*
+- carregamento_inicial-v2.01.php => carregamentoInicial.php *?*
+- curtir_oferta-v2.01.php => curtirOferta.php *?*
+- envia_acesso_app-v2.01.php => enviaAcessoApp.php *?*
+- get_entreemcontato-v2.01.php => getEntreEmContato.php *?*
+- registrar_compartilhamento-v2.01.php => registrarCompartilhamento.php *?*
+- verifica_bloqueio_campos-v2.01.php => ? *?*
+- verifica_bundle-v2.01.php => verificaBundle.php *?*
 
 ## 🎯 Distribuição dos módulos dos endpoints
 #### Foram gerados novos módulos conforme discutido, seguindo a nova estrutura:
