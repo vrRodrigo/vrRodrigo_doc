@@ -48,7 +48,7 @@ title: Documentação Base Tarefas do Connect_APP
 - minha_lista_compras-v2.01.php => minhaListaCompra.php *UsuarioListaDeCompras?*
 - remover_item_lista_compras-v2.01.php => removerItemListaCompra.php *ListaDeCompras*
 - toggle_item_cesta_lista_compras-v2.01.php => alternaItemCestaListaCompra.php *ListaDeCompras*
-- renomear_item_avulso_lista_compras-v2.01.php => removerItemAvulsoListaCompra.php *ListaDeCompras* **Errado o nome do ENDPOINT** 
+- renomear_item_avulso_lista_compras-v2.01.php => removerItemAvulsoListaCompra.php *ListaDeCompras*
 - ajusta_lista_de_compras-v2.02.php => ajustaListaDeCompras.php *ListaDeCompras*
 
 ### 🟢 Login 
